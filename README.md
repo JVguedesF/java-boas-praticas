@@ -33,10 +33,17 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Flyway](https://flywaydb.org)**
 
 ---
+## 🧪 Testes
 
+Os testes foram implementados utilizando as seguintes tecnologias:
+
+- **[JUnit 5](https://junit.org/junit5/)** 
+- **[Mockito](https://site.mockito.org/)**
+- 
+---
 ## 📝 Licença
 
-O projeto desse repositório foi desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de boas práticas de programação com Java.
+O projeto base desse repositório foi desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de boas práticas de programação com Java.
 
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
 
