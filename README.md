@@ -31,6 +31,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[MySQL](https://www.mysql.com)**
 - **[Hibernate](https://hibernate.org)**
 - **[Flyway](https://flywaydb.org)**
+- **[Spring Data JPA](https://spring.io/projects/spring-data-jpa)**
 
 ---
 ## 🧪 Testes
