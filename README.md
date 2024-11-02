@@ -39,7 +39,7 @@ Os testes foram implementados utilizando as seguintes tecnologias:
 
 - **[JUnit 5](https://junit.org/junit5/)** 
 - **[Mockito](https://site.mockito.org/)**
-- 
+  
 ---
 ## 📝 Licença
 
